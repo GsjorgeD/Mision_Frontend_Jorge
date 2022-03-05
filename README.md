@@ -1,7 +1,7 @@
 # Frontend Launch X Microsoft México
 Practicas Frontend Launch X - Innovaccion virtual.
 
-En este repositorio se encontrarán todas las practicas del programa de formación de developers de Microsoft México.  En ellas se explora y se fortalecen mi conocimientos en todos los aspectos que conlleva el desarrollo Frontend.
+En este repositorio se encontrarán todas las practicas del programa de formación de developers de Microsoft México.  En ellas se explora y se fortalecen mis conocimientos en todos los aspectos que conlleva el desarrollo Frontend.
 Cada misión, como se denominan a las practicas están separadas por semana.
 
 
@@ -14,5 +14,5 @@ Cada misión, como se denominan a las practicas están separadas por semana.
 Redes Jorge D. G. Sánchez:
 
 * [GitHub](https://github.com/GsjorgeD "GitHub")
-* [Linkedin](https://github.com/GsjorgeD "Linkedin")
-* [Twitter](https://twitter.com/peRKurgtZSaND "Twitter")
+* [Linkedin](https://www.linkedin.com/in/jdanielgutierrez/ "Linkedin")
+* [Twitter](https://twitter.com/peRKurgtZSaN "Twitter")

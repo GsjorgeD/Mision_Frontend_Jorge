@@ -6,7 +6,7 @@ Cada misión, como se denominan a las practicas están separadas por semana.
 
 
 
-### [Semana 1](semana1/ "Semana 1")
+### [Semana 1](semana1/semana1.ipynb "Semana 1")
 
 ### [Semana 2](semana2/ "Semana 2")
 
